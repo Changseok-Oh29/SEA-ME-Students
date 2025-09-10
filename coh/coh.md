@@ -17,8 +17,8 @@
 ### SEA-ME-Warmup
 - [SEA:ME warmup](https://github.com/Changseok-Oh29/SEA-ME-Warmup)
 
-### Piracer assembly
+### DES Project 1 - Piracer assembly
 - [picracer_assembly](https://github.com/parkj12b/piracer_py/tree/master)
 
-### DES Project 1 - Instrument Cluster
+### DES Project 2 - Instrument Cluster
 - [Instrument Cluster](https://github.com/Changseok-Oh29/PiRacer_Instrument_Cluster_QT)
